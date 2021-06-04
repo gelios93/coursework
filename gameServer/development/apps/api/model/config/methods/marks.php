@@ -1,0 +1,6 @@
+<?php
+$methods = [
+	'loadData' => [
+		'params' => []
+	]
+];
